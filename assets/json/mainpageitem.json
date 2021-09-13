@@ -1,0 +1,35 @@
+[
+    {
+        "subject" : "SUBJECTS",
+        "img": "assets/images/dbms.png",
+        "route": "HomePage()"
+
+    },
+     
+    {
+        "subject" : "TO DOS",
+        "img": "assets/images/datastructures.png",
+        "route": "ToDoList()"
+
+    },
+    {
+        "subject" : "NOTES",
+        "img": "assets/images/operatingsystem.png",
+        "route": "ToDoList"
+
+    },
+    {
+        "subject" : "ABOUT",
+        "img": "assets/images/oops.png",
+        "route": "ToDoList()"
+
+    },
+    {
+        "subject" : "ABOUT",
+        "img": "assets/images/oops.png",
+        "route": "ToDoList()"
+
+    }
+     
+
+]
